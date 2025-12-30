@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Professionell städning och tvätt för ditt hem och företag.",
+      "imageURL": "/images/hero.jpg",
+      "imageHint": "cleaning service hero"
+    },
+    {
+      "id": "avatar-founder",
+      "description": "Portrait of the founder, Michaela.",
+      "imageURL": "/images/Michaela.jpg",
+      "imageHint": "founder portrait"
+    },
+    {
+      "id": "service-move-out-cleaning",
+      "description": "Vår flyttstädning inkluderar hemstädning, kontorsstädning, fönsterputsning och mattvätt.",
+      "imageURL": "/images/flytt.jpg",
+      "imageHint": "cleaning service move out cleaning"
+    },
+    {
+      "id": "service-home-cleaning",
+      "description": "Regelbunden hemstädning för att hålla ditt hem rent och fräscht.",
+      "imageURL": "/images/hemstäd.jpg",
+      "imageHint": "cleaning service home cleaning"
+    },
+    {
+      "id": "service-office-cleaning",
+      "description": "Professionell kontorsstädning för en ren och produktiv arbetsmiljö.",
+      "imageURL": "/images/kontor.jpg",
+      "imageHint": "cleaning service office cleaning"
+    },
+    {
+      "id": "service-premises-cleaning",
+      "description": "Städning av kommersiella lokaler för att skapa en inbjudande atmosfär.",
+      "imageURL": "/images/lokal.jpg",
+      "imageHint": "cleaning service premises cleaning"
+    },
+    {
+      "id": "service-deep-cleaning",
+      "description": "Djupgående städning för att nå svåråtkomliga områden och förbättra inomhusluften.",
+      "imageURL": "/images/storstäd.jpg",
+      "imageHint": "cleaning service deep cleaning"
+    },
+    {
+      "id": "service-laundry",
+      "description": "Professionell tvättservice för kläder och textilier.",
+      "imageURL": "/images/tvätt.jpg",
+      "imageHint": "cleaning service laundry"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Portrait of a smiling woman.",
+      "imageURL": "/images/Kvinna.jpg",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Portrait of a smiling man.",
+      "imageURL": "/images/Man.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Portrait of a happy family.",
+      "imageURL": "/images/familj.jpg",
+      "imageHint": "family portrait"
+    }
+  ]
+}
