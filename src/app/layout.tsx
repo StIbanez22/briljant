@@ -1,6 +1,7 @@
 import { Toaster } from "@/components/ui/sonner";
 import { Metadata } from "next";
 import "./globals.css";
+import { CookieConsent } from "@/components/cookie-consent";
 
 export const metadata: Metadata = {
   title: "Briljant Städ och Tvätt MB",
@@ -23,6 +24,7 @@ export default function RootLayout({
       <body className="font-body antialiased">
         {children}
         <Toaster />
+        <CookieConsent />
       </body>
     </html>
   );
