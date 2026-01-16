@@ -32,4 +32,4 @@ Drawing from 7 years of experience at **Benteler Group** in a zero-defect indust
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/StIbanez22/briljant-stad.git](https://github.com/StIbanez22/briljant-stad.git)
+   git clone [https://github.com/StIbanez22/briljant.git)
