@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Briljant Städ - Professional Service Platform
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-First, run the development server:
+A high-performance, conversion-focused web application built for a professional cleaning service provider in Västerås. This project showcases the transition from complex industrial systems to modern web engineering, prioritizing reliability, SEO, and user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**🔗 [Live Demo](https://briljantstad.nu) | 🛠️ [Source Code](https://github.com/StIbanez22/briljant-stad)**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Business Objective
+The goal was to replace an outdated web presence with a modern platform that builds trust and simplifies the lead generation process. By implementing a mobile-first design and optimizing for local SEO, the site serves as a 24/7 automated sales tool for the business.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Key Technical Features
+- **Modern Tech Stack:** Built with **Next.js 14/15** and **TypeScript** for a robust, type-safe development environment.
+- **Dynamic UI Components:** Leveraged **Shadcn/UI** and **Lucide React** to build a consistent, accessible, and professional interface.
+- **Performance Optimized:** - Server-side rendering (SSR) for instant perceived load times.
+  - Optimized image delivery using the Next.js Image component.
+  - Zero-layout shift (CLS) for a smooth user experience.
+- **Conversion-Driven UX:** Integrated clear CTA (Call to Action) sections and a streamlined contact flow.
 
-## Learn More
+## 🧠 Engineering Philosophy: "Zero-Defect Frontend"
+Drawing from 7 years of experience at **Benteler Group** in a zero-defect industrial environment, I applied the same methodical approach to this codebase:
+1. **Type Safety:** Used TypeScript interfaces throughout to catch errors at compile-time, ensuring a stable production environment.
+2. **Component Modularity:** Followed atomic design principles to ensure components are reusable and easy to maintain.
+3. **Clean Code:** Prioritized readability and consistent naming conventions to facilitate future scalability.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Installation & Development
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/StIbanez22/briljant-stad.git](https://github.com/StIbanez22/briljant-stad.git)
